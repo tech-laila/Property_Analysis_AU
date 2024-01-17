@@ -1,6 +1,6 @@
 # Property_Analysis_AU
 Objective:
-The Excel project is designed to facilitate the comprehensive evaluation of diverse property data types and sources, mimicking the role of a real-life analyst in the field of property market research and analytics. 
+The Excel project is designed to facilitate the comprehensive evaluation of diverse property data types and sources, mimicking the role of a real-life analyst in the field of property market research and analytics. The selected suburb is Alfords Point, in Sydney, Australia.
 
 Steps:
 The primary focus of the assignment is to ensure proficiency in handling various visualizations and interaction tools commonly employed in property analytics. The dataset for this assessment is sourced from ABS Census data, encompassing seven categories: property price, house finance status, ownership and household information, dwelling status, family information, population and marriage status, and unemployment and employment status. The assignment includes collecting property price data from the www.pricefinder.com.au website. 
